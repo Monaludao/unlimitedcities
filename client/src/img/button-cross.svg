@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>cross - anticon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M164.26087,156 L174.515528,145.704969 C174.838511,145.408901 175,145.038822 175,144.59472 C175,144.150619 174.84524,143.773811 174.535714,143.464286 C174.226189,143.15476 173.849381,143 173.40528,143 C172.961178,143 172.591099,143.161489 172.295031,143.484472 L162,153.73913 L151.704969,143.484472 C151.408901,143.161489 151.038822,143 150.59472,143 C150.150619,143 149.773811,143.15476 149.464286,143.464286 C149.15476,143.773811 149,144.150619 149,144.59472 C149,145.038822 149.161489,145.408901 149.484472,145.704969 L159.73913,156 L149.484472,166.295031 C149.161489,166.591099 149,166.961178 149,167.40528 C149,167.849381 149.15476,168.226189 149.464286,168.535714 C149.773811,168.84524 150.150619,169 150.59472,169 C151.038822,169 151.408901,168.838511 151.704969,168.515528 L162,158.220497 L172.295031,168.515528 C172.591099,168.838511 172.961178,169 173.40528,169 C173.849381,169 174.226189,168.84524 174.535714,168.535714 C174.84524,168.226189 175,167.849381 175,167.40528 C175,166.961178 174.838511,166.591099 174.515528,166.295031 L164.26087,156 Z" id="path-1"></path>
+        <filter x="-23.1%" y="-23.1%" width="146.2%" height="146.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-145.000000, -139.000000)">
+        <g id="cross---anticon">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

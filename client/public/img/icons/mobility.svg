@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="32px" viewBox="0 0 36 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Nature Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-26.8%" y="-26.1%" width="157.1%" height="156.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-845.000000, -192.000000)">
+        <g id="Mobility" transform="translate(849.000000, 193.000000)">
+            <g id="Group" filter="url(#filter-1)" transform="translate(0.966667, 3.000000)">
+                <ellipse id="Oval-2" stroke="#FFFFFF" stroke-width="2" cx="4.83333333" cy="18" rx="4.83333333" ry="5"></ellipse>
+                <ellipse id="Oval-2-Copy" stroke="#FFFFFF" stroke-width="2" cx="21.2666667" cy="18" rx="4.83333333" ry="5"></ellipse>
+                <ellipse id="Oval-2-Copy-2" fill="#FFFFFF" cx="17.8833333" cy="2.5" rx="2.41666667" ry="2.5"></ellipse>
+                <polyline id="Path-3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="13.4330618 21.366992 13.4330618 14.3095701 8.7898363 9.88448937 13.03685 5.64232585 16.3214433 8.92062459 22.256571 8.92062459"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="36px" viewBox="0 0 33 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Nature</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-23.9%" y="-21.4%" width="151.2%" height="142.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-847.000000, -140.000000)">
+        <g id="Nature" transform="translate(849.000000, 143.000000)" fill="#FFFFFF">
+            <g id="Group" filter="url(#filter-1)" transform="translate(1.933333, 1.000000)">
+                <rect id="Rectangle-Copy" x="13.5333333" y="16" width="2.9" height="12"></rect>
+                <rect id="Rectangle-Copy-2" transform="translate(12.083333, 21.000000) rotate(-37.000000) translate(-12.083333, -21.000000) " x="11.6" y="18" width="1" height="6"></rect>
+                <ellipse id="Oval" cx="5.31666667" cy="13.5" rx="5.31666667" ry="5.5"></ellipse>
+                <ellipse id="Oval-Copy" cx="7.25" cy="5.5" rx="5.31666667" ry="5.5"></ellipse>
+                <ellipse id="Oval-Copy-2" cx="16.9166667" cy="10.5" rx="8.21666667" ry="8.5"></ellipse>
+                <ellipse id="Oval-Copy-3" cx="12.0833333" cy="8.5" rx="8.21666667" ry="8.5"></ellipse>
+                <ellipse id="Oval-Copy-4" cx="10.6333333" cy="17" rx="3.86666667" ry="4"></ellipse>
+                <rect id="Rectangle" x="0" y="26" width="24.1666667" height="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

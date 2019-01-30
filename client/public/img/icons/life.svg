@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="34px" viewBox="0 0 35 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Nature Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-27.9%" y="-23.1%" width="155.2%" height="150.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-846.000000, -241.000000)">
+        <g id="Life" transform="translate(849.000000, 243.000000)">
+            <g id="Group" filter="url(#filter-1)" transform="translate(1.933333, 2.000000)">
+                <polyline id="Path-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="0 5.47642844 5.71758482 8.30797923 19.9774911 4.89867339 24.8908943 2"></polyline>
+                <polyline id="Path-2-Copy" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="18.0176967 25.211214 17.6713463 22.6347268 13.5333333 21.2181722 13.6940701 12.8166669 16.6150485 14 21.5055349 15.2931316 21.5055349 21.2181722 23.9096697 22.1840493"></polyline>
+                <path d="M6.42860782,8.67959414 C10.6577051,7.97911269 10.6200641,7.63906243 11.126544,8.95119285 C11.633024,10.2633233 12.7371815,14.1270069 12.9303351,17.973745 C13.1234887,21.8204831 14.3120272,16.5511336 15.4183375,15.6210381 C16.5246477,14.6909427 18.4119378,14.9034677 17.8916278,13.8026948 C17.3713179,12.7019218 17.2967504,9.24576729 17.1754816,7.84808533 C17.0542129,6.45040337 17.0486465,6.435311 18.9055872,6.03061168 C20.7625279,5.62591236 2.1995105,9.38007559 6.42860782,8.67959414 Z" id="Path-4" fill="#FFFFFF"></path>
+                <ellipse id="Oval-2-Copy-2" fill="#FFFFFF" cx="13.05" cy="2.5" rx="2.41666667" ry="2.5"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

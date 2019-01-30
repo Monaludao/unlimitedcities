@@ -1,0 +1,21 @@
+{
+  "infos": "Infos",
+  "mix": "Mix",
+  "gallery": "Gallery",
+  "map": "Map",
+  "open-photo": "Open a photo",
+  "choose-premix": "Choose a premix",
+  "whats-the-place": "What’s the place?",
+  "type-the-address": "Type the address...",
+  "comment": "Comment",
+  "your-nickname": "Your nickname",
+  "your-comment": "Your comment",
+  "object-division": "division of objects by criteria:",
+  "premix(es)": "premix(es)",
+  "premixes-description": "Choose a premix to create your mix from there",
+  "app-title": "Unlimited Cities",
+  "app-subtitle": "Software is in the development phase",
+  "app-short-description": "-------",
+  "app-long-description": "<p>Unlimited Cities® software is in the development phase. This free software, under the GNU AGPL 3.0 license, is a functional prototype intended to explore and validate uses with the various actors of urban transformations (citizens, professionals, authorities). Version 1.0 and following of the software are currently being planned and developed with the support of https://7billion-urbanists.org/ and https://freeit.world.</p>",
+  "GDPR": "<h2>GDPR</h2> <p><b>As ONG,</b> 7 Billion Urbanists and our partners need to make sure that you are happy to use the collaborative urbanism method and digital tool Unlimited Cities. It is enough for us to have your pseudo. We don’t need your name. We don't need either your email, phone number, gender and age. If you give your name and personal statements about life and politic in your mix(s) online comment(s), everybody will be able to see them. We do not have a time machine yet, but you can ask us to delete or change your comment.</p> <p><b>Do we produce database?</b> Yes, because Unlimited Cities goal is to enlighten better decisions for more inclusive and sustainable cities. Understanding what imagine and think civil society about urban transformation is important. We think these databases (pseudo, mix, comment, date, localization) can help to take better decision.It is why we share them as anonymized open data. Just ask for it. <a href='mailto:contact@7-bu.org'>contact@7-bu.org</a></p>"
+}
