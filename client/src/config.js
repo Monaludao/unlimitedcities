@@ -34,7 +34,7 @@ export const FIREBASE_CONFIG = {
 };
 
 export const MAPBOX_CONFIG = {
-  accessToken: "pk.eyJ1IjoiYW5pY29sYXMiLCJhIjoiY2ppMGFlamtyMTJpNjNwcG8wZ2k5bmc0ZiJ9.pJsIFAWTIkLKNQSJulFP9w"
+  accessToken: "" // Replace this string with your acessToken
 };
 
 export const LIBRARY_ID = "basic";
